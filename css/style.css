@@ -1,0 +1,15 @@
+fieldset{
+    margin-top: 10px;
+    background: #e5e5e5;
+}
+legend {
+    margin-bottom: 10px;
+    background: #d1d1d1;
+    padding-left: 10px;
+}
+input.guardar {
+    margin: 10px 0;
+}
+textarea{
+    min-height: 70px;
+}
